@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-(在线预览)[https://luowatson.github.io/3d-photo-album/]
+[在线预览](https://luowatson.github.io/3d-photo-album/)
 
 You can use the [editor on GitHub](https://github.com/LuoWatson/3d-photo-album/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
